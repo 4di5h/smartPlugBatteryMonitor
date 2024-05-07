@@ -21,6 +21,6 @@ Finishing this script took longer than anticipated, thus instead of a long write
 
 Your feedback and suggestions for improvements are welcome. Thank you for your support!
 
-### Resources
+## Resources
 - [Win32_battery powershell.one](https://powershell.one/wmi/root/cimv2/win32_battery)
 - Smart Plug that I am using: <a href="url"><img src="https://github.com/4di5h/smartPlugBatteryMonitor/assets/120532930/d216a2e0-99de-4f91-b76f-68dfd23b9564" align="left" height="80" width="80" ></a>
