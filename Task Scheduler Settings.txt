@@ -1,0 +1,17 @@
+Task Scheduler Settings
+
+TAB - Action:
+Start A Program -->
+Program/Script:
+powershell.exe
+
+Add Arguments:
+-WindowStyle Minimized -ExecutionPolicy RemoteSigned -File "%USERPROFILE%\Desktop\Battery.ps1"
+
+TAB - Triggers:
+At Startup -->
+At System Startup -->
+
+TAB - General:
+Name: SmartBatteryMonitor
+
