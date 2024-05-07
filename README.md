@@ -1,4 +1,4 @@
-# smartPlugBatteryMonitor
+![51dFh6yYQsL _AC_SL1500_](https://github.com/4di5h/smartPlugBatteryMonitor/assets/120532930/a993d0b2-fc43-4c99-9e87-f14526b46d99)# smartPlugBatteryMonitor
 # Smart Plug Battery Monitor
 
 Automate laptop battery charging using Wi-Fi Smart Plug without relying on Webhooks, ensuring a completely free solution(as of the last update of this readme).
@@ -21,3 +21,8 @@ The provided PowerShell script (`Battery.ps1`) automates the process with minima
 Finishing this script took longer than anticipated, thus instead of a long writeup I opted to present the project and its instructions via a YouTube video. You can find the video tutorial at the following link: _____
 
 Your feedback and suggestions for improvements are welcome. Thank you for your support!
+
+### Resources
+[Win32_battery powershell.one](https://powershell.one/wmi/root/cimv2/win32_battery)
+Smart Plug that I am using:
+![51dFh6yYQsL _AC_SL1500_](https://github.com/4di5h/smartPlugBatteryMonitor/assets/120532930/d216a2e0-99de-4f91-b76f-68dfd23b9564)
