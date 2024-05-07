@@ -15,7 +15,7 @@ The idea is to automatically send an email to the IFTTT server with a certain ha
 - **Windows Machine:** While Python could be an alternative for other platforms like MacOS, this solution currently supports Windows only.
 
 ## Instructions and Implementation
-The provided PowerShell script (`Battery.ps1`) automates the process with minimal user inputs and comprehensive logging.
+The provided PowerShell script [BatteryMonitor.ps1](./Battery_Monitor.ps1) automates the process with minimal user inputs and comprehensive logging.
 
 Finishing this script took longer than anticipated, thus instead of a long writeup I opted to present the project and its instructions via a YouTube video. You can find the video tutorial at the following link: _____
 
