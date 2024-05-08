@@ -6,7 +6,7 @@ Program/Script:
 powershell.exe
 
 Add Arguments:
--WindowStyle Minimized -ExecutionPolicy RemoteSigned -File "%USERPROFILE%\Desktop\Battery.ps1"
+-WindowStyle Minimized -ExecutionPolicy RemoteSigned -File "%USERPROFILE%\Desktop\Battery_Monitor.ps1"
 
 TAB - Triggers:
 At Startup -->
