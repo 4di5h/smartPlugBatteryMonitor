@@ -1,3 +1,4 @@
+[YOUTUBE DEMO](https://youtu.be/tRVYT38KTz4?si=rqfJ2Ae0QtJGczWg)
 # Smart Plug Battery Monitor
 
 Automate laptop battery charging using Wi-Fi Smart Plug without relying on Webhooks, ensuring a completely free solution(as of the last update of this readme).
@@ -36,7 +37,7 @@ Once the trigger is activated, configure the desired action, such as executing a
 The applets that are used for this project are also made public: [Battery Low Trigger](https://ift.tt/dtbKL1a), [Battery High Trigger](https://ift.tt/5AHKCFT)
 
 ### Using the Script
-Finishing this script took longer than anticipated, thus instead of further writeup I have opted to present the script via my YouTube video. Link _____
+Finishing this script took longer than anticipated, thus instead of further writeup I have opted to present the script via my [YouTube video](https://youtu.be/tRVYT38KTz4?si=rqfJ2Ae0QtJGczWg)
 
 Attention: If configuring the SMTP Server with GMail, ensure you acquire an app-specific password from the link in Resources below and activate it. You will need to enable the 2-step verification method in your Account settings to set up an App Specific password. Regular Gmail password is longer suffice for SMTP authentication; only the app-specific password will work.
 
